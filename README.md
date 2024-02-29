@@ -2,7 +2,6 @@
 
 <div align="center"> <img src="https://media.licdn.com/dms/image/D5616AQF4uIbxhEfqVQ/profile-displaybackgroundimage-shrink_350_1400/0/1690468602271?e=1714608000&v=beta&t=RPqeEEoHRe9zw_9pU3qmzCiPcpFaZpEMVnNQhT90UhM"> </div>
 
-### 🌟 JavaScript 🌟 React 🌟 MERN Web Developer
 ### Web developer with an interest in working on projects. Enjoys teamwork and is quick to learn and adapt, aiming to enhance my skills and contribute meaningfully to projects.
 
 ## 🙋🏻‍♂ About Me: 
@@ -11,6 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilgupta3030&label=Profile%20views&color=0e75b6&style=flat" alt="sahilgupta3030" /> </p>
 
 ## 🌎 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilgupta3030)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Solve-green?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sahilgupta3030)
+
 
 
 # 💻 Tech Stack:
