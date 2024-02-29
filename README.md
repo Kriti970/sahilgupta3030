@@ -3,6 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Full-Stack Development.<br>👯 I’m looking to collaborate in open-source projects to contribute.<br>🌱 I’m currently learning JavaScript and MERN stack<br>💬 Ask me about Front-End Development.<br>⚡ Fun fact - I am lazy but smart !<br>👨‍💻 How to reach me: sahilgupta3030@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilgupta3030&label=Profile%20views&color=0e75b6&style=flat" alt="sahilgupta3030" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilgupta3030) 
