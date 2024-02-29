@@ -5,8 +5,7 @@
 
 <!-- my portfolio site button -->
 <a href="https://portfolio-sahilgupta.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-navy?style=for-the-badge&logo=sass&logoColor=%23FFFFFF
-" target="_blank" />
+<img src="https://img.shields.io/badge/PORTFOLIO-navy?style=for-the-badge&logo=sass&logoColor=%23FFFFFF" target="_blank"/>
 </a>
 👆🏼 Click here !
 
