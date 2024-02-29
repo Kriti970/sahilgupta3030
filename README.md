@@ -10,9 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilgupta3030&label=Profile%20views&color=0e75b6&style=flat" alt="sahilgupta3030" /> </p>
 
 ## 🌎 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilgupta3030)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilgupta3030)
 &nbsp;&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-Solve-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sahilgupta3030)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sahilgupta3030)
 
 
 
