@@ -2,6 +2,9 @@
 
 <div align="center"> <img src="https://media.licdn.com/dms/image/D5616AQF4uIbxhEfqVQ/profile-displaybackgroundimage-shrink_350_1400/0/1690468602271?e=1714608000&v=beta&t=RPqeEEoHRe9zw_9pU3qmzCiPcpFaZpEMVnNQhT90UhM"> </div>
 
+### 🌟 JavaScript 🌟 React 🌟 MERN Web Developer
+### Web developer with an interest in working on projects. Enjoys teamwork and is quick to learn and adapt, aiming to enhance my skills and contribute meaningfully to projects.
+
 ## 🙋🏻‍♂ About Me: 
 🔭 I’m currently working on Full-Stack Development.<br>👯 I’m looking to collaborate in open-source projects to contribute.<br>🌱 I’m currently learning JavaScript and MERN stack<br>💬 Ask me about Front-End Development.<br>⚡ Fun fact - I am lazy but smart !<br>👨‍💻 How to reach me: sahilgupta3030@gmail.com
 
