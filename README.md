@@ -1,11 +1,13 @@
 # Hi there 👋, I'm Sahil Gupta
 
-### 💫 About Me: 
+<div align="center"> <img src="https://media.licdn.com/dms/image/D5616AQF4uIbxhEfqVQ/profile-displaybackgroundimage-shrink_350_1400/0/1690468602271?e=1714608000&v=beta&t=RPqeEEoHRe9zw_9pU3qmzCiPcpFaZpEMVnNQhT90UhM"> </div>
+
+## 🙋🏻‍♂ About Me: 
 🔭 I’m currently working on Full-Stack Development.<br>👯 I’m looking to collaborate in open-source projects to contribute.<br>🌱 I’m currently learning JavaScript and MERN stack<br>💬 Ask me about Front-End Development.<br>⚡ Fun fact - I am lazy but smart !<br>👨‍💻 How to reach me: sahilgupta3030@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilgupta3030&label=Profile%20views&color=0e75b6&style=flat" alt="sahilgupta3030" /> </p>
 
-## 🌐 Socials:
+## 🌎 Socials:
 
 
 # 💻 Tech Stack:
