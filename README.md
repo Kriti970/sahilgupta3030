@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sahil Gupta
+# 👋🏼 Hello, I'm SAHIL GUPTA
 
 <!-- my portfolio site button -->
 [![Portfolio 🧑🏻‍💻](https://img.shields.io/badge/Portfolio-001F3F?style=for-the-badge)](https://portfolio-sahilgupta.netlify.app/) <br>
