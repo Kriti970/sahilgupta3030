@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Sahil Gupta
 
 <!-- my portfolio site button -->
-[![Portfolio 🧑🏻‍💻](https://img.shields.io/badge/Portfolio-001F3F?style=for-the-badge)](https://portfolio-sahilgupta.netlify.app/) 👈🏼 Click here
+[![Portfolio 🧑🏻‍💻](https://img.shields.io/badge/Portfolio-001F3F?style=for-the-badge)](https://portfolio-sahilgupta.netlify.app/) 
+👆🏼 Click here
 
 
 <!-- my banner which I took from linkedin-banner -->
