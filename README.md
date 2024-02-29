@@ -1,9 +1,7 @@
 # Hi there 👋, I'm Sahil Gupta
 
 <!-- my portfolio site button -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-001F3F?style=for-the-badge&logo=github&logoColor=white)](https://portfolio-sahilgupta.netlify.app/) 🧑🏻‍💻
-
-
+[![Portfolio 🧑🏻‍💻](https://img.shields.io/badge/Portfolio-001F3F?style=for-the-badge&logo=github&logoColor=white)](https://portfolio-sahilgupta.netlify.app/)
 
 <!-- my banner which I took from linkedin-banner -->
 <div align="center"> <img src="https://media.licdn.com/dms/image/D5616AQF4uIbxhEfqVQ/profile-displaybackgroundimage-shrink_350_1400/0/1690468602271?e=1714608000&v=beta&t=RPqeEEoHRe9zw_9pU3qmzCiPcpFaZpEMVnNQhT90UhM"> </div>
