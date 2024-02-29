@@ -17,6 +17,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sahilgupta3030&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-![Visitor Count](https://profile-counter.glitch.me/sahilgupta3030/count.svg)
+![]([(https://bit.ly/3uS7D44)])
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
