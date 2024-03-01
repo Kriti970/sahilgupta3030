@@ -63,17 +63,17 @@ Click here.. <br>
 </a>
 </div>
 
-<!-- Streak Stats -->
 <hr/>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta3030&theme=dark&hide_border=true" alt="Streak Stats" style="width: 500px;"/>
-</div>
-
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sahilgupta3030&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ![]([(https://bit.ly/3uS7D44)])
+
+<!-- Streak Stats -->
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta3030&theme=dark&hide_border=true" alt="Streak Stats" style="width: 500px;"/>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
