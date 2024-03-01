@@ -45,43 +45,30 @@ Click here.. <br>
 
 # 📊 GitHub Stats:
 <!-- GitHub Profile Summary Cards -->
+<div align="center">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/0-profile-details.svg" alt="Profile Details" />
 </a>
-
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/1-repos-per-language.svg" alt="Repos per Language" />
 </a>
-
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/2-most-commit-language.svg" alt="Most Commit Language" />
 </a>
-
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/3-stats.svg" alt="Stats" />
 </a>
-
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/4-productive-time.svg" alt="Productive Time" />
 </a>
+</div>
 
 <!-- Streak Stats -->
 <hr/>
-
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta3030&theme=dark&hide_border=true" alt="Streak Stats" />
+</div>
 
-
-<!-- 
-[![](https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
- 
-<!-- streak -->
-<hr/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta3030&theme=dark&hide_border=true)<br/>
- -->
 
 
 ## 🏆 GitHub Trophies
