@@ -45,24 +45,19 @@ Click here.. <br>
 
 # 📊 GitHub Stats:
 
-<div class="statss"> 
+<p align="center"> 
 [![](https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
- </div>
+</p>
 
  
 <!-- streak -->
 <hr/>
-<div class="statss"> 
+<p align="center"> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta3030&theme=dark&hide_border=true)<br/>
-</div>
+</p>
 
-<style>
-.statss {
-  margin: auto;
-}
-</style>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sahilgupta3030&theme=discord&no-frame=false&no-bg=true&margin-w=4)
