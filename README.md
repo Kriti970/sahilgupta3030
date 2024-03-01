@@ -47,26 +47,26 @@ Click here.. <br>
 <!-- GitHub Profile Summary Cards -->
 <div align="center">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/0-profile-details.svg" alt="Profile Details" style="width: 250px; height: 100px;"/>
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/1-repos-per-language.svg" alt="Repos per Language" style="width: 125px; height: 100px;"/>
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/2-most-commit-language.svg" alt="Most Commit Language" style="width: 125px; height: 100px;"/>
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/3-stats.svg" alt="Stats" style="width: 125px; height: 100px;"/>
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/4-productive-time.svg" alt="Productive Time" />
+  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/4-productive-time.svg" alt="Productive Time" style="width: 125px; height: 100px;" />
 </a>
 </div>
 
 <!-- Streak Stats -->
 <hr/>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta3030&theme=dark&hide_border=true" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta3030&theme=dark&hide_border=true" alt="Streak Stats" style="width: 250px; height: 100px;"/>
 </div>
 
 
