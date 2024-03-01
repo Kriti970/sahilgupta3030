@@ -47,7 +47,7 @@ Click here.. <br>
 <!-- GitHub Profile Summary Cards -->
 <div align="center">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/0-profile-details.svg" alt="Profile Details" style="width: 250px;"/>
+  <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/0-profile-details.svg" alt="Profile Details" style="width: 600px;"/>
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="https://raw.githubusercontent.com/sahilgupta3030/thickduck/master/profile-summary-card-output/react/1-repos-per-language.svg" alt="Repos per Language" style="width: 125px;"/>
