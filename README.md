@@ -13,7 +13,7 @@ Click here.. <br>
 <br>
  
 <!-- PROFILE BANNER -->
-<div align="center"> <img src="https://media.licdn.com/dms/image/D5616AQHoPa1NbjVEzw/profile-displaybackgroundimage-shrink_350_1400/0/1712595813750?e=1718236800&v=beta&t=9OJW1B5UFKvKWnIKC66Vll_XPlRlnXApqAG6v7dfDRM"> </div>
+<div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQH3L67I9q3gfw/profile-displaybackgroundimage-shrink_350_1400/0/1712607518118?e=1718236800&v=beta&t=--FvEW1ieCSFDMnlPZ3At1OfySp7fXHBlxH1fx6HTcQ"> </div>
 
 ### Web developer with an interest in working on projects. Enjoys teamwork and is quick to learn and adapt, aiming to enhance my skills and contribute meaningfully to projects.
 
