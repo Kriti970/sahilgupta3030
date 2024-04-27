@@ -1,7 +1,7 @@
 <!-- profile visitor -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sahilgupta3030&label=Profile%20views&color=0e75b6&style=flat" alt="sahilgupta3030" /> </p>
 
-# 👋🏼 Hello, I'm Sahil Gupta
+# 👋🏼 Hello, I'm Sahil Gupta.
  
 <!-- my portfolio site button -->
 <p align="right">
