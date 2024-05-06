@@ -1,7 +1,7 @@
 <!-- profile visitor -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sahilgupta3030&label=Profile%20views&color=0e75b6&style=flat" alt="sahilgupta3030" /> </p>
 
-# 👋🏼 Hello, I'm Sahil Gupta.
+# 👋🏼 Hello.. I am Sahil Gupta
  
 <!-- my portfolio site button -->
 <p align="right">
@@ -15,10 +15,10 @@ Click here.. <br>
 <!-- PROFILE BANNER -->
 <div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQH3L67I9q3gfw/profile-displaybackgroundimage-shrink_350_1400/0/1712607518118?e=1718236800&v=beta&t=--FvEW1ieCSFDMnlPZ3At1OfySp7fXHBlxH1fx6HTcQ"> </div>
 
-### Web developer with an interest in working on projects. Enjoys teamwork and is quick to learn and adapt, aiming to enhance my skills and contribute meaningfully to projects.
+### A committed coder skilled in web development, focusing on the MERN stack. Proficient in solving problems using DSA. Curious learner seeking skill enhancement. Ready to work within teams, aiming to thrive as a developer.
 
 ## 🙋🏻‍♂ About Me: 
-🎯  Passionate coder aspiring to become a Full-stack developer.<br>🌐  I’m looking to collaborate in open-source projects to contribute.<br>👨‍💻  I’m exploring MERN stack.<br>🗨️  Ask me about Front-End Development.<br>🎨  Fun fact: I am lazy but smart!<br>🚀  How to reach me: sahilgupta3030@gmail.com
+🎯  Passionate coder aspiring to become a Full-stack developer.<br>🌐  I’m looking to collaborate in open-source projects to contribute.<br>🎨  Fun fact: I am lazy but smart!<br>🚀  How to reach me: sahilgupta3030@gmail.com
 
 
 ## 🌎 Socials:
@@ -34,7 +34,7 @@ Click here.. <br>
 <hr/>
 
 
-# 💻 Tech Stack:
+# 💻 Technical Skills:
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,php,mysql,java,python" />
@@ -43,7 +43,7 @@ Click here.. <br>
 
 
 
-# 📊 GitHub Stats:
+# 📊 Github Stats:
 <!-- GitHub Profile Summary Cards -->
 <div align="center">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
