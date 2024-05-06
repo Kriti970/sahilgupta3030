@@ -15,10 +15,10 @@ Click here.. <br>
 <!-- PROFILE BANNER -->
 <div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQH3L67I9q3gfw/profile-displaybackgroundimage-shrink_350_1400/0/1712607518118?e=1718236800&v=beta&t=--FvEW1ieCSFDMnlPZ3At1OfySp7fXHBlxH1fx6HTcQ"> </div>
 
-### A committed coder skilled in web development, focusing on the MERN stack. Proficient in solving problems using DSA. Curious learner seeking skill enhancement. Ready to work within teams, aiming to thrive as a developer.
+### A committed coder skilled in Full-stack development. Proficient in solving problems using DSA. Curious learner seeking skill enhancement. Ready to work within teams, aiming to thrive as a developer.
 
 ## 🙋🏻‍♂ About Me: 
-🎯  Passionate coder aspiring to become a Full-stack developer.<br>🌐  I’m looking to collaborate in open-source projects to contribute.<br>🎨  Fun fact: I am lazy but smart!<br>🚀  How to reach me: sahilgupta3030@gmail.com
+🎯  Passionate coder aspiring to become a Full-stack developer.<br>🌐  I’m looking to collaborate in open-source projects to contribute.<br>🧠  Exploring AI tools..<br>🎨  Fun fact: I am lazy but smart<br>🚀  How to reach me: sahilgupta3030@gmail.com
 
 
 ## 🌎 Socials:
