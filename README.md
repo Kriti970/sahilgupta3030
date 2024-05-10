@@ -72,7 +72,7 @@ comment end -->
 
 <!-- Streak Stats -->
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta3030&theme=dark&hide_border=true" alt="Streak Stats" style="width: 800px; height:200px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta3030&theme=dark&hide_border=true" alt="Streak Stats" style="width: 600px;"/>
 </div>
 
 
