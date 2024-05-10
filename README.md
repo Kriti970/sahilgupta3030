@@ -42,7 +42,7 @@ Click here.. <br>
 </div>
 comment end -->
 
-# 🟥 Github Stats:
+# 🔘 Github Stats:
 <!-- GitHub Profile Summary Cards -->
 <div align="center">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
