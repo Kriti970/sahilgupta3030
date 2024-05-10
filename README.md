@@ -33,15 +33,14 @@ Click here.. <br>
 </div>
 <hr/>
 
-
+<!-- comment start
 # 💻 Technical Skills:
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,php,mysql,java,python" />
     <img src="https://skillicons.dev/icons?i=github,bootstrap,jquery,sass,mongodb,expressjs,react,nodejs" /><br>
 </div>
-
-
+comment end -->
 
 # 🟥 Github Stats:
 <!-- GitHub Profile Summary Cards -->
