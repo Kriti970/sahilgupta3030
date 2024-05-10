@@ -42,7 +42,7 @@ Click here.. <br>
 </div>
 comment end -->
 
-# 🔘 Github Stats:
+## 🔘 Github Stats:
 <!-- GitHub Profile Summary Cards -->
 <div align="center">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
@@ -72,7 +72,7 @@ comment end -->
 
 <!-- Streak Stats -->
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta3030&theme=dark&hide_border=true" alt="Streak Stats" style="width: 500px;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta3030&theme=dark&hide_border=true" alt="Streak Stats" style="width: 800px;"/>
 </div>
 
 
