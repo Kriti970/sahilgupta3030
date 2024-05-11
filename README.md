@@ -20,7 +20,7 @@ Click here.. <br>
 -->
 
 ## 🙋🏻‍♂ About Me: 
-🎯  Passionate coder aspiring to become a Full-stack developer.<br>🌐  I’m looking to collaborate in open-source projects to contribute.<br>🧠  Exploring AI tools..<br>🎨  Fun fact: I am lazy but smart<br>🚀  How to reach me: sahilgupta3030@gmail.com
+🎯  Committed Coder aiming to become a Full-stack Developer.<br>🌐  I’m looking to contribute to open-source projects.<br>🧠  Exploring AI tools..<br>🎨  Fun fact: I am lazy but smart<br>🚀  How to reach me: sahilgupta3030@gmail.com
 
 
 ## 🌎 Socials:
