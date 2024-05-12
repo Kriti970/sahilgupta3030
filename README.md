@@ -13,7 +13,7 @@ Click here.. <br>
 <br>
  
 <!-- PROFILE BANNER -->
-<div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQH3L67I9q3gfw/profile-displaybackgroundimage-shrink_350_1400/0/1712607518118?e=1718236800&v=beta&t=--FvEW1ieCSFDMnlPZ3At1OfySp7fXHBlxH1fx6HTcQ"> </div>
+<div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQEMh3POp1Szyg/profile-displaybackgroundimage-shrink_350_1400/0/1715530390050?e=1721260800&v=beta&t=QWfiI1tNjX1ZeqKrNNUfTeU_u7yb5VN0bBm9_C4ZSrc"> </div>
 
 <!--  
 ### A committed coder skilled in Full-stack development. Proficient in solving problems using DSA. Curious learner seeking skill enhancement. Ready to work within teams, aiming to thrive as a developer.
